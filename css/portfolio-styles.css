@@ -36,6 +36,13 @@ img.gallery {
   margin: 10px;
 }
 
+.namedrop {
+  font-family: 'Lobster', cursive;
+  font-size: 18px;
+  color: #fff74d;
+}
+
+
 a:link {
   text-decoration: none;
   font-weight: bold;
