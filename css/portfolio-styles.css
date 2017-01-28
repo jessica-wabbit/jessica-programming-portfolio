@@ -1,10 +1,19 @@
 h1 {
   font-family: 'Lobster', cursive;
   font-size: 50px;
+  color: #fff74d;
+
+}
+
+h2 {
+  font-weight: bold;
+  color:  #7eff4d;
 }
 
 body {
   font-family: 'Droid Serif', serif;
+  background-color: #29b6f6;
+  color: white;
 }
 
 img {
@@ -13,12 +22,15 @@ img {
   border-color: black;
 }
 
-.about-jess {
-  background-color: pink;
-
-}
-
 img.jess {
   float: left;
   margin: 10px;
 }
+
+a:link {
+  text-decoration: none;
+  font-weight: bold;
+  font-family:'Lobster', cursive;
+  color: #fff74d;
+  font-size: 18px;
+  }
